@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-unicorn/webpack-day-ming-cheng/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-unicorn/webpack-day-ming-cheng#readme"
+  "homepage": "https://github.com/thinkful-ei-unicorn/webpack-day-ming-cheng#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
